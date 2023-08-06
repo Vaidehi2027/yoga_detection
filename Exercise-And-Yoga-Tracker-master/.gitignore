@@ -1,0 +1,18 @@
+# Files And Folders
+dataset
+pretrained_models
+checkpoints_models
+final_models
+TF_Lite_Models
+recieved_images
+temp
+H5_Models
+
+
+# Extension Files
+# *.bin
+.jovianrc
+.ipynb_checkpoints
+*.h5
+*.tflite
+*.zip
